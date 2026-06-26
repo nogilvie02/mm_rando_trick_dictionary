@@ -12,3 +12,6 @@ To run the dictionary locally, make sure you have Python 3 installed, clone this
 ```bash
 python main.py
 ```
+
+## Additional Resources
+For in-depth instructions on how to complete each trick, please see the [ZeldaSpeedRuns](https://www.zeldaspeedruns.com/mm/) website. *Please note that I (nogilvie02) am not affiliated with ZeldaSpeedRuns in any way.*
